@@ -7,7 +7,8 @@
 			"type":"Manual",
       "kms": 10000,
       "Description": "Tata Altroz with all original documents",
-      "Price": 500000
+      "Price": 500000,
+      "image" : "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNhcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "year": 2017,
       "kms": 8000,
       "Description": "Tata Nexon with all original documents",
-      "Price": 800000
+      "Price": 800000,
+      "image": "https://images.unsplash.com/photo-1489824904134-891ab64532f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNhcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
     }
   ],
 "wishlisted_cars": [
@@ -27,7 +29,9 @@
 			"type":"Manual",
       "kms": 10000,
       "Description": "Tata Altroz with all original documents",
-      "Price": 500000
+      "Price": 500000,
+      "image" : "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNhcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+
     }
   ]
 }
