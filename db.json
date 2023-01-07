@@ -33,5 +33,13 @@
       "image" : "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNhcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
 
     }
+  ],
+  "user": [
+    {
+      "id": "11",
+      "username": "muskan",
+      "email": "muskan2442@gamil.com",
+      "password": "1234"
+    }
   ]
 }
