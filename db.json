@@ -58,6 +58,12 @@
         "place": "Banglore",
         "gender": "Female"
       }
+    ],
+    "BugTracker":[
+      {
+        "email": "muskan2442@gamil.com",
+        "password": "12345"
+      }
     ]
   
 }
